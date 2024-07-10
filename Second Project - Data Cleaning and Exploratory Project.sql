@@ -7,6 +7,7 @@
 
 -- Begin (first section)
 -- CREATE NEW TABLE (because we want to make a lot of changes and we need the raw data)
+-- HELLO
 SELECT *
 FROM layoffs;
 
